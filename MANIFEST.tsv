@@ -1,1 +1,21 @@
 path	bytes	sha256	md5	source
+6-game-kit-templates/kenney_gametemplate_c2/dicecards.capx	347109	4248a454f684c34a7ded28cdfde81ae023fc3da938aa0cff20f26cb497490041		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → dicecards.capx
+6-game-kit-templates/kenney_gametemplate_c2/license.txt	533	79ad29ef3530452ee10cdd4d429f7c7aa0f1560c049b50433a341d1d884b297e		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → license.txt
+6-game-kit-templates/kenney_gametemplate_c2/paddleball.capx	182859	f74ad119f7069e3c356f89c2912e8b8b5b9d8b278e93de91a2c41e914ada5097		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → paddleball.capx
+6-game-kit-templates/kenney_gametemplate_c2/platformer.capx	207379	136eedeaf767d63376e2078fb22245f2d61f6dff97712efe9a0dd458cf197531		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → platformer.capx
+6-game-kit-templates/kenney_gametemplate_c2/readme.txt	632	fa4acf6861affa2b9b66fa05898fd28edb3852bf014c17a8cb8ec7c6b8776341		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → readme.txt
+6-game-kit-templates/kenney_gametemplate_c2/rpg.capx	653865	045169a3c593d5bfac5290e5bc0f9e01c88e938c6bf0c6112692e7f30356a98e		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → rpg.capx
+6-game-kit-templates/kenney_gametemplate_c2/spaceshooter.capx	194851	7ba776e849382b7119e3deec662c161f94a8788001c7ce5bfe8b90be152fd0d7		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → spaceshooter.capx
+6-game-kit-templates/kenney_gametemplate_c2/tappyplane.capx	217153	933619135f752cfdbac9f718cadec9deeaadfd2004169e26f9cbde42fafd18a5		https://opengameart.org/sites/default/files/kenney_gametemplate_c2.zip → tappyplane.capx
+kenney-fonts/ken_fonts/kenpixel.ttf	18068	fd42226067fc44707d41ef9f43597574c6a0fd415249416b38cf93371a7a611a		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel.ttf
+kenney-fonts/ken_fonts/kenpixel_blocks.ttf	30524	d7c76fb5bbb0f3b005c99e0f2e0bc3946ce1d7b8c8a389590bc4fe74919e4365		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_blocks.ttf
+kenney-fonts/ken_fonts/kenpixel_future.ttf	27380	3abdea80a3013dbaf1e777ba496eec2cda15883f68f62291755d1ebc5937e50f		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_future.ttf
+kenney-fonts/ken_fonts/kenpixel_future_square.ttf	24768	11db210fde20c90429a17c2e10f8569f7b6f0ed0bf230f4472630a71e1f13b9b		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_future_square.ttf
+kenney-fonts/ken_fonts/kenpixel_high.ttf	27844	3125803617d158aed6fff48c231a886104ba4ded8dcd0172fabbbdb958c5b6fe		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_high.ttf
+kenney-fonts/ken_fonts/kenpixel_high_square.ttf	24976	4f4c703207ee5ceb9b7b93c9ea6a6e23680d14691562c045c3000c6479ec87d3		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_high_square.ttf
+kenney-fonts/ken_fonts/kenpixel_mini.ttf	26216	646182a4c02dbb5c374c193ca711fb67ac394a152f548f44d4b87a67a1cdd200		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_mini.ttf
+kenney-fonts/ken_fonts/kenpixel_mini_square.ttf	23968	25c3d83c6ae5566513d74ea1590453f73216a13bd28e76eb76f951b66d810d32		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_mini_square.ttf
+kenney-fonts/ken_fonts/kenpixel_square.ttf	24956	d643038adf0bff4fb384e5753f076e9f702ef02090b7a1062b404f2f4f6bef4c		https://opengameart.org/sites/default/files/ken_fonts.zip → kenpixel_square.ttf
+kenney-fonts/ken_fonts/kenvector_future.ttf	34136	3d1e9a99f3c6c190d20fa9fd2920fa4eb764884874a67247cbfcdd00bdba499e		https://opengameart.org/sites/default/files/ken_fonts.zip → kenvector_future.ttf
+kenney-fonts/ken_fonts/kenvector_future_thin.ttf	34100	5dcbb91bc3df490ef12cb384d5754cb46ebd73d15e5f0d7e8cd45d5763298514		https://opengameart.org/sites/default/files/ken_fonts.zip → kenvector_future_thin.ttf
+kenney-fonts/ken_fonts/license.txt	493	605987757a12171fa834fc59d2e99c09e013a3d5f1424943bac58ad25ec56659		https://opengameart.org/sites/default/files/ken_fonts.zip → license.txt

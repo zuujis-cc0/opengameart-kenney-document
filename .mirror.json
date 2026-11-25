@@ -1,5 +1,8 @@
 {
- "assets": {},
+ "assets": {
+  "6-game-kit-templates": "88ca6473ad00a281e96131d58317e7f3ec30f421",
+  "kenney-fonts": "2c0bf5de1af3db26eeee547d698a26176455f776"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
